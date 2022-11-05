@@ -1,0 +1,15 @@
+D:\C# Introduction\questionare\Questions\bin\Debug\net6.0\Questions.exe
+D:\C# Introduction\questionare\Questions\bin\Debug\net6.0\Questions.deps.json
+D:\C# Introduction\questionare\Questions\bin\Debug\net6.0\Questions.runtimeconfig.json
+D:\C# Introduction\questionare\Questions\bin\Debug\net6.0\Questions.dll
+D:\C# Introduction\questionare\Questions\bin\Debug\net6.0\Questions.pdb
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.csproj.AssemblyReference.cache
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.AssemblyInfoInputs.cache
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.AssemblyInfo.cs
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.csproj.CoreCompileInputs.cache
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.dll
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\refint\Questions.dll
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.pdb
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\Questions.genruntimeconfig.cache
+D:\C# Introduction\questionare\Questions\obj\Debug\net6.0\ref\Questions.dll
